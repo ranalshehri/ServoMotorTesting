@@ -1,5 +1,8 @@
 # Servo Motor Control with Arduino
 
+## Demo 
+You may view the video **[here]**(https://drive.google.com/file/d/1tuMkJnMe7KsMsQiSg1o7G3V7JUVz0o2k/view?usp=sharing), or download it from the uploaded repo files.
+
 ## Overview
 
 This project demonstrates basic control of four servo motors using an Arduino and the Servo library. Two programs were implemented:
